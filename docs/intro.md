@@ -4,9 +4,15 @@ title: Intro
 hide_table_of_contents: true
 ---
 
-# TurboWarp Documentation
+# Momentum Documentation
 
-[TurboWarp](https://turbowarp.org/) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes.
+[Momentum](https://momentum.warp.kokodev.cc/) is a mod of Scratch with improved performance, dark mode, addons, and more. This is the place where its extra documentation goes. 
+
+# Thanks to:
+Momentum wouldn't exist today, without the following projects:
+- [Turbowarp](https://turbowarp.org)
+- [Mistwarp](https://warp.mistium.com)
+- 
 Related projects:
 
  - [Momentum Desktop](https://github.com/Momentum-Scratch/desktop)
