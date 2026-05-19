@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  title: 'Momentum Documentation',
+  url: 'https://docs.warp.kokodev.cc',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -10,7 +10,7 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'Momentum Documentation',
       items: [
         {
           href: '/packager/',
@@ -23,12 +23,12 @@ module.exports = {
           position: 'left'
         },
         {
-          href: 'https://turbowarp.org/',
-          label: 'TurboWarp',
+          href: 'https://warp.kokodev.cc',
+          label: 'Momentum',
           position: 'right'
         },
         {
-          href: 'https://github.com/TurboWarp',
+          href: 'https://github.com/Momentum-Scratch',
           label: 'GitHub',
           position: 'right',
         },
