@@ -12,7 +12,7 @@ hide_table_of_contents: true
 Momentum wouldn't exist today, without the following projects:
 - [Turbowarp](https://turbowarp.org)
 - [Mistwarp](https://warp.mistium.com)
-- 
+
 Related projects:
 
  - [Momentum Desktop](https://github.com/Momentum-Scratch/desktop)
