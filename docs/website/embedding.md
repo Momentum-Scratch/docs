@@ -5,7 +5,7 @@ hide_table_of_contents: true
 
 # Embedding
 
-You can use TurboWarp to embed a Scratch project in your website using an `<iframe>`. For the best experience, use this template:
+You can use Momentum to embed a Scratch project in your website using an `<iframe>`. For the best experience, use this template:
 
 ```html
 <iframe src="https://warp.kokodev.cc/embed#414716080" width="482" height="412" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen="" style="color-scheme: auto"></iframe>
@@ -31,7 +31,7 @@ Here's what that example embed looks like in action:
 
 ## Unshared projects can't be embedded {#unshared-projects}
 
-Unshared projects [can not be shown in embeds](unshared-projects). Make sure the projects you embed are shared or use the [TurboWarp Packager](https://packager.warp.kokodev.cc/) instead.
+Unshared projects [can not be shown in embeds](unshared-projects). Make sure the projects you embed are shared or use the [Momentum Packager](https://packager.warp.kokodev.cc/) instead.
 
 ## URL parameters {#url-parameters}
 
@@ -43,7 +43,7 @@ There are also some special parameters only available in embeds:
 
 Embeds support the `autoplay` parameter, which will automatically hit the green flag when the project loads. For example: https://warp.kokodev.cc/embed?autoplay#414716080
 
-Note that sound blocks may not work until the user interacts with the project (for example, by clicking). This is a restriction imposed by browsers. There is nothing TurboWarp can do to work around this.
+Note that sound blocks may not work until the user interacts with the project (for example, by clicking). This is a restriction imposed by browsers. There is nothing Momentum can do to work around this.
 
 ### Settings button {#settings-button}
 
@@ -81,8 +81,8 @@ If you use user-supplied information to generate embed links, you should sanitiz
 
 ## Need more control? {#packager}
 
-Use the [TurboWarp Packager](https://packager.warp.kokodev.cc/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](/packager/embedding) very easily.
+Use the [Momentum Packager](https://packager.warp.kokodev.cc/) for more control over the loading screen, accent colors, controls, and more. You can also [embed the output of the packager](/packager/embedding) very easily.
 
 ## License {#license}
 
-TurboWarp is licensed under the [GPLv3.0](https://github.com/TurboWarp/scratch-gui/blob/develop/LICENSE). We believe that an `<iframe>` of a GPLv3.0 work doesn't create a derivative work under the GPLv3.0, rather it creates an "aggregate work" which is not subject to the same requirements as derivative works. However, we are not lawyers and this is not legal advice. Talk to a lawyer if this matters to you.
+Momentum is licensed under the [GPLv3.0](https://github.com/Momentum/scratch-gui/blob/develop/LICENSE). We believe that an `<iframe>` of a GPLv3.0 work doesn't create a derivative work under the GPLv3.0, rather it creates an "aggregate work" which is not subject to the same requirements as derivative works. However, we are not lawyers and this is not legal advice. Talk to a lawyer if this matters to you.
