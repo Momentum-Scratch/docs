@@ -6,7 +6,9 @@ hide_table_of_contents: true
 
 Momentum Scratch supports **extendable blocks** — blocks with ◄ ► buttons that let users add or remove input slots at runtime, like the built-in `+`, `and`, and `join` blocks.
 
-This is a **Momentum-only feature** and requires an unsandboxed extension.
+:::warning Momentum-only
+The `extendable` block API is exclusive to Momentum Scratch. Extensions using it will not work in standard TurboWarp or vanilla Scratch. This feature also requires an [unsandboxed extension](./unsandboxed).
+:::
 
 ## Basic example
 
