@@ -57,6 +57,15 @@ module.exports = {
       ]
     },
     'development/scoped-loop-variables',
+    {
+      type: 'category',
+      label: 'Modding Momentum',
+      collapsed: false,
+      items: [
+        'development/modding/custom-variable-types',
+        'development/modding/block-shape-registry',
+      ]
+    },
     'development/getting-started',
     'development/globals',
     'development/scratchx'
