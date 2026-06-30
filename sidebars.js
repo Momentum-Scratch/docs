@@ -56,6 +56,7 @@ module.exports = {
         'development/extensions/block-shapes',
       ]
     },
+    'development/scoped-loop-variables',
     'development/getting-started',
     'development/globals',
     'development/scratchx'
