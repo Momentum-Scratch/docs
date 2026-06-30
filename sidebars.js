@@ -56,13 +56,12 @@ module.exports = {
         'development/extensions/block-shapes',
       ]
     },
-    'development/scoped-loop-variables',
     {
       type: 'category',
       label: 'Modding Momentum',
       collapsed: false,
       items: [
-        'development/modding/custom-variable-types',
+        'development/scoped-loop-variables',
         'development/modding/block-shape-registry',
       ]
     },
