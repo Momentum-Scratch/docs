@@ -51,6 +51,8 @@ module.exports = {
         'development/extensions/compatibility',
         'development/extensions/share',
         'development/extensions/wrapping-up',
+        'development/extensions/extendable-blocks',
+        'development/extensions/block-shapes',
       ]
     },
     'development/getting-started',
